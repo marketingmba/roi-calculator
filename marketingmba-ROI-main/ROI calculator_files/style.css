@@ -133,7 +133,7 @@ select option {
   max-width: 41.66667%;
 }
 .calc_field_wrap.medium_4 {
-  width: 250px;
+  width: 100%;
 }
 .calc_field_wrap.medium_6 {
   width: 94%;
@@ -284,7 +284,7 @@ button.calc_form_submit {
 }
 .toggle_btn {
   float: left;
-  width: 120px;
+  width: auto;
   padding: 10px 15px;
   border-radius: 4px;
   font-weight: bold;
