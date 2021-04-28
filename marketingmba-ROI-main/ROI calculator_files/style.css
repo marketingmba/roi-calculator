@@ -133,7 +133,8 @@ select option {
   max-width: 41.66667%;
 }
 .calc_field_wrap.medium_4 {
-  width: 250px;
+ max-width: 250px;
+  width: 100%;
 }
 #time_unit_length {
 width: 100%
