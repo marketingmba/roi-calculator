@@ -155,7 +155,18 @@ span.calc_description {
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
-    background-position-x: 95%;
+    background-position-x: 95% !important;
+  border-radius: 20px 20px 20px 20px;
+float: left;
+width: 100%;
+display: block;
+margin-top: 4px;
+padding: 10px 15px;
+font-size: 17px;
+background-color: #fff;
+color: #000;
+border: 1px solid #ced6dc;
+transition: all 0.3s ease-in-out;
 }
 .calc_input {
 border-radius: 20px 20px 20px 20px;
