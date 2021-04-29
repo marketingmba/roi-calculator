@@ -150,6 +150,13 @@ width: 100%
 span.calc_description {
   font-weight: 100;
 }
+select {
+    background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right #ddd;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-position-x: 95%;
+}
 .calc_input {
   border-radius: 20px 20px 20px 20px;
   float: left;
