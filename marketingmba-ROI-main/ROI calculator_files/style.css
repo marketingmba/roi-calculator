@@ -150,33 +150,32 @@ width: 100%
 span.calc_description {
   font-weight: 100;
 }
-select {
+/* select {
     background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right #ddd;
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
-    background-position-x: 95%;
+    background-position-x: 95%; */
 }
 .calc_input {
-  border-radius: 20px 20px 20px 20px;
-  float: left;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position-x: 98%;
-  background-position-y: center;
-  display: block;
-  margin-top: 4px;
-  padding: 10px 15px;
-  font-size: 17px;
-  background-color: #fff;
-  color: #000;
-  border: 1px solid #ced6dc;
-  transition: all 0.3s ease-in-out;
-  background-image: -webkit-linear-gradient(
-    rgba(255, 255, 255, 0),
-    rgba(255, 255, 255, 0)
-  );
-}
+   background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right #ddd;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-position-x: 95%;
+    border-radius: 20px 20px 20px 20px;
+float: left;
+width: 100%;
+display: block;
+margin-top: 4px;
+padding: 10px 15px;
+font-size: 17px;
+background-color: #fff;
+color: #000;
+border: 1px solid #ced6dc;
+transition: all 0.3s ease-in-out;
+} 
+
 .currency_wrap {
   display: flex;
   justify-content: center;
