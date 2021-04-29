@@ -1,7 +1,5 @@
-body,
-html  {
+body  {
   direction: ltr;
-  height: 100%;
 }
 ::-webkit-scrollbar {
   width: 0.5vw; /* Controls the overall width of the scrollbar */
