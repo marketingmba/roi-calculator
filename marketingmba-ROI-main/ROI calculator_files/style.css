@@ -151,7 +151,7 @@ span.calc_description {
   font-weight: 100;
 }
 #currency,
-#time_unit_length
+#time_unit_length,
 #time_needed_unit {
     background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right #fff !important;
     appearance: none;
